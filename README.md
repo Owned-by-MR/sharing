@@ -1,4 +1,4 @@
-# iamshare
+# Share
 Short description:
 
 create wanted db in mysql - pay attention to models included in backlaravelapi
